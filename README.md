@@ -6,3 +6,5 @@ This is a demo website.
 Updating from example branch.
 
 Updating from update-readme branch.
+
+Now updated locally.
