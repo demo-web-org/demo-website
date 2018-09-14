@@ -7,4 +7,5 @@ update made from master github before rebase.
 
 # Repository Purpose
 
-This is a readme file.
+The purpose of this file is to provide examples
+on how to use git and github together.
